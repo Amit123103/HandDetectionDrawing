@@ -1,4 +1,9 @@
 opencv-python
 mediapipe
 numpy
+opencv-python
+mediapipe
+numpy
 PyQt6
+fastapi
+uvicorn
